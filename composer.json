@@ -1,5 +1,5 @@
 {
-	"name": "janmarek/mockista",
+	"name": "markatom/mockista",
 	"description": "Mockista is library for mocking, which I've written, because I find mocking in PHPUnit awful.",
 	"keywords": ["phpunit", "testing", "tests", "mockista", "mock", "mocking", "tdd", "bdd"],
 	"homepage": "http://www.mockista.com/",
